@@ -1,7 +1,7 @@
 # Top-8 analogue matching + horizon persistence blend, LOO-calibrated
 ![competition](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)
-![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/binasalama12/makefun-gta6-twitch-ccu-forecast-01-w1/rank.svg)
-![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/binasalama12/makefun-gta6-twitch-ccu-forecast-01-w1/reward.svg)
+![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/binasalama12/makefun-gta6-twitch-ccu-forecast-01-w3/rank.svg)
+![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/binasalama12/makefun-gta6-twitch-ccu-forecast-01-w3/reward.svg)
 
 This entry scores every past launch comparable for similarity to the target —
 unlock type (rolling midnight-local vs single global unlock), console
